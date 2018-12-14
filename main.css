@@ -5,4 +5,9 @@ body {
   color: #08d400;
   font-size: 14px;
   line-height: 20px;
-};
+}
+
+.card {
+  border-bottom: 2px outset #08d400;
+  background-color: #151617;
+}
